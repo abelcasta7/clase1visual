@@ -1,2 +1,3 @@
 1. Crear un header responsivo con 5 links
 2. Usar bootstrap como sistemas de estilos
+3. agregar metodo de pago con Mercado pago para comprar productos
